@@ -35,21 +35,22 @@
 }
 nav.navbar  {
     border-bottom: 1px solid #ffffff52;
+    background-color: #fff;
 }
 .navbar-light .navbar-brand {
-    color: rgb(255 255 255 / 90%);
+    color: #333;
     font-weight: 800;
     font-size: 24px;
 }
 .navbar-light .navbar-brand:focus, .navbar-light .navbar-brand:hover {
-    color: #fff;
+    color: #333;
 }
 .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
     color: #f25454 !important;
 }
 .navbar-light .navbar-nav .nav-link {
     font-weight: 600;
-    color: rgb(255, 255, 255) !important;
+    color: #333 !important;
     margin-right: 5px;
 }
 .navbar-light .navbar-nav .nav-link:hover {
